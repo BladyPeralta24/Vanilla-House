@@ -28,11 +28,11 @@
     const languageText = {
         english:{
             aboutUs: 'About Us',
-            language: '../assets/img/logos/reino-unido.png',
+            language: '/src/assets/en.png',
         },
         spanish:{
             aboutUs: 'Sobre Nosotros',
-            language: '../assets/img/logos/espana.png',
+            language: '/src/assets/es.png',
         },
     };
 
